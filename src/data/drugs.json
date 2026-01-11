@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 169,
+    "slug": "amoxil-169",
+    "brandName": "Amoxil",
+    "genericName": "amoxicillin",
+    "drugClass": "Penicillin Antibiotic",
+    "primaryUse": "Bacterial Infection",
+    "keyRedFlag": "Allergy/Rash; Stomach upset",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 170,
+    "slug": "augmentin-170",
+    "brandName": "Augmentin",
+    "genericName": "amoxicillin/clavulanate",
+    "drugClass": "Penicillin Combo",
+    "primaryUse": "Bacterial Infection",
+    "keyRedFlag": "Diarrhea (Take w/ food)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 179,
+    "slug": "bactrim-septra-179",
+    "brandName": "Bactrim / Septra",
+    "genericName": "sulfamethoxazole/TMP",
+    "drugClass": "Sulfonamide",
+    "primaryUse": "UTI / MRSA",
+    "keyRedFlag": "Rash (SJS); Drink water (Crystals)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 183,
+    "slug": "bactroban-183",
+    "brandName": "Bactroban",
+    "genericName": "mupirocin",
+    "drugClass": "Topical Antibiotic",
+    "primaryUse": "Impetigo / MRSA (Nasal)",
+    "keyRedFlag": "Local irritation",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 172,
+    "slug": "ceftin-172",
+    "brandName": "Ceftin",
+    "genericName": "cefuroxime",
+    "drugClass": "2nd-gen Cephalosporin",
+    "primaryUse": "Bacterial Infection",
+    "keyRedFlag": "Cross-sensitivity with PCN",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 175,
+    "slug": "cipro-175",
+    "brandName": "Cipro",
+    "genericName": "ciprofloxacin",
+    "drugClass": "Fluoroquinolone",
+    "primaryUse": "UTI / Anthrax",
+    "keyRedFlag": "Tendon Rupture; QT Prolongation",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 180,
+    "slug": "cleocin-180",
+    "brandName": "Cleocin",
+    "genericName": "clindamycin",
+    "drugClass": "Lincosamide",
+    "primaryUse": "Skin / Dental Infection",
+    "keyRedFlag": "C. difficile diarrhea (High risk)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 184,
+    "slug": "diflucan-184",
+    "brandName": "Diflucan",
+    "genericName": "fluconazole",
+    "drugClass": "Azole Antifungal",
+    "primaryUse": "Yeast infection",
+    "keyRedFlag": "Hepatotoxicity",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 181,
+    "slug": "flagyl-181",
+    "brandName": "Flagyl",
+    "genericName": "metronidazole",
+    "drugClass": "Nitroimidazole",
+    "primaryUse": "Anaerobic / Vaginal Inf.",
+    "keyRedFlag": "Disulfiram-like (No Alcohol)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 171,
+    "slug": "keflex-171",
+    "brandName": "Keflex",
+    "genericName": "cephalexin",
+    "drugClass": "1st-gen Cephalosporin",
+    "primaryUse": "Skin/Strep Infections",
+    "keyRedFlag": "Cross-sensitivity with PCN",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 176,
+    "slug": "levaquin-176",
+    "brandName": "Levaquin",
+    "genericName": "levofloxacin",
+    "drugClass": "Fluoroquinolone",
+    "primaryUse": "Pneumonia / UTI",
+    "keyRedFlag": "Tendon Rupture; QT Prolongation",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 182,
+    "slug": "macrobid-182",
+    "brandName": "Macrobid",
+    "genericName": "nitrofurantoin",
+    "drugClass": "Urinary antiseptic",
+    "primaryUse": "UTI (Bladder only)",
+    "keyRedFlag": "Brown urine; Pulmonary toxicity",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 178,
+    "slug": "minocin-178",
+    "brandName": "Minocin",
+    "genericName": "minocycline",
+    "drugClass": "Tetracycline",
+    "primaryUse": "Acne",
+    "keyRedFlag": "Photosensitivity; Vestibular (dizziness)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 185,
+    "slug": "nizoral-185",
+    "brandName": "Nizoral",
+    "genericName": "ketoconazole",
+    "drugClass": "Azole Antifungal",
+    "primaryUse": "Fungal infection / Dandruff",
+    "keyRedFlag": "Liver toxicity (Oral)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 173,
+    "slug": "omnicef-173",
+    "brandName": "Omnicef",
+    "genericName": "cefdinir",
+    "drugClass": "3rd-gen Cephalosporin",
+    "primaryUse": "Bacterial Infection",
+    "keyRedFlag": "Red stools (if taking iron)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 188,
+    "slug": "tamiflu-188",
+    "brandName": "Tamiflu",
+    "genericName": "oseltamivir",
+    "drugClass": "Antiviral",
+    "primaryUse": "Influenza (Flu)",
+    "keyRedFlag": "Nausea; Delirium (rare/kids)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 186,
+    "slug": "valtrex-186",
+    "brandName": "Valtrex",
+    "genericName": "valacyclovir",
+    "drugClass": "Antiviral",
+    "primaryUse": "Herpes / Shingles",
+    "keyRedFlag": "Renal issues (Drink water)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 177,
+    "slug": "vibramycin-177",
+    "brandName": "Vibramycin",
+    "genericName": "doxycycline",
+    "drugClass": "Tetracycline",
+    "primaryUse": "Acne / Lyme / Pneumonia",
+    "keyRedFlag": "Photosensitivity; Discolored teeth (Kids)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 174,
+    "slug": "zithromax-174",
+    "brandName": "Zithromax",
+    "genericName": "azithromycin",
+    "drugClass": "Macrolide Antibiotic",
+    "primaryUse": "Pneumonia / Chlamydia",
+    "keyRedFlag": "QT Prolongation",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 187,
+    "slug": "zovirax-187",
+    "brandName": "Zovirax",
+    "genericName": "acyclovir",
+    "drugClass": "Antiviral",
+    "primaryUse": "Herpes / Shingles",
+    "keyRedFlag": "Crystalluria (Drink water)",
+    "category": "Anti-infectives"
+  },
+  {
+    "id": 13,
+    "slug": "aldactone-13",
+    "brandName": "Aldactone",
+    "genericName": "spironolactone",
+    "drugClass": "K-sparing diuretic",
+    "primaryUse": "Heart Failure / HTN",
+    "keyRedFlag": "Hyperkalemia; Gynecomastia",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 30,
+    "slug": "altace-30",
+    "brandName": "Altace",
+    "genericName": "ramipril",
+    "drugClass": "ACE Inhibitor",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "Dry cough",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 39,
+    "slug": "apresoline-39",
+    "brandName": "Apresoline",
+    "genericName": "hydralazine",
+    "drugClass": "Vasodilator",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "Reflex tachycardia; Lupus-like syndrome",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 33,
+    "slug": "avapro-33",
+    "brandName": "Avapro",
+    "genericName": "irbesartan",
+    "drugClass": "ARB",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "Hyperkalemia",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 34,
+    "slug": "benicar-34",
+    "brandName": "Benicar",
+    "genericName": "olmesartan",
+    "drugClass": "ARB",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "GI issues (sprue-like enteropathy)",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 25,
+    "slug": "brilinta-25",
+    "brandName": "Brilinta",
+    "genericName": "ticagrelor",
+    "drugClass": "Antiplatelet",
+    "primaryUse": "ACS / Stent protection",
+    "keyRedFlag": "Bleeding; Dyspnea",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 10,
+    "slug": "bystolic-10",
+    "brandName": "Bystolic",
+    "genericName": "nebivolol",
+    "drugClass": "Beta-blocker",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "Fatigue; Headache",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 37,
+    "slug": "calan-verelan-37",
+    "brandName": "Calan / Verelan",
+    "genericName": "verapamil",
+    "drugClass": "Non-DHP CCB",
+    "primaryUse": "AFib / Angina",
+    "keyRedFlag": "Bradycardia; Severe Constipation",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 36,
+    "slug": "cardizem-tiazac-36",
+    "brandName": "Cardizem / Tiazac",
+    "genericName": "diltiazem",
+    "drugClass": "Non-DHP CCB",
+    "primaryUse": "AFib / Angina",
+    "keyRedFlag": "Bradycardia; Constipation",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 38,
+    "slug": "catapres-38",
+    "brandName": "Catapres",
+    "genericName": "clonidine",
+    "drugClass": "Alpha-2 Agonist",
+    "primaryUse": "Hypertension / ADHD",
+    "keyRedFlag": "Rebound HTN if stopped abruptly",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 42,
+    "slug": "cordarone-pacerone-42",
+    "brandName": "Cordarone / Pacerone",
+    "genericName": "amiodarone",
+    "drugClass": "Antiarrhythmic (Class III)",
+    "primaryUse": "Arrhythmias",
+    "keyRedFlag": "Blue-gray skin; Thyroid/Lung toxicity",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 8,
+    "slug": "coreg-8",
+    "brandName": "Coreg",
+    "genericName": "carvedilol",
+    "drugClass": "Beta-blocker (Non-selective)",
+    "primaryUse": "Heart Failure / HTN",
+    "keyRedFlag": "Dizziness; Take with food",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 26,
+    "slug": "coumadin-jantoven-26",
+    "brandName": "Coumadin / Jantoven",
+    "genericName": "warfarin",
+    "drugClass": "Anticoagulant (Vit K Antagonist)",
+    "primaryUse": "AFib / VTE",
+    "keyRedFlag": "Bleeding; Monitor INR regularly",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 2,
+    "slug": "cozaar-2",
+    "brandName": "Cozaar",
+    "genericName": "losartan",
+    "drugClass": "ARB",
+    "primaryUse": "Hypertension / HF",
+    "keyRedFlag": "Hyperkalemia; Angioedema",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 16,
+    "slug": "crestor-16",
+    "brandName": "Crestor",
+    "genericName": "rosuvastatin",
+    "drugClass": "Statin (HMG-CoA Reductase Inh.)",
+    "primaryUse": "Hyperlipidemia",
+    "keyRedFlag": "Myopathy (muscle pain)",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 3,
+    "slug": "diovan-3",
+    "brandName": "Diovan",
+    "genericName": "valsartan",
+    "drugClass": "ARB",
+    "primaryUse": "Hypertension / HF",
+    "keyRedFlag": "Hyperkalemia",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 27,
+    "slug": "eliquis-27",
+    "brandName": "Eliquis",
+    "genericName": "apixaban",
+    "drugClass": "Anticoagulant (DOAC)",
+    "primaryUse": "AFib / VTE",
+    "keyRedFlag": "Bleeding risk; No INR needed",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 44,
+    "slug": "entresto-44",
+    "brandName": "Entresto",
+    "genericName": "sacubitril/valsartan",
+    "drugClass": "ARNI",
+    "primaryUse": "Heart Failure",
+    "keyRedFlag": "Angioedema; 36hr washout after ACEi",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 40,
+    "slug": "imdur-40",
+    "brandName": "Imdur",
+    "genericName": "isosorbide mononitrate",
+    "drugClass": "Nitrate",
+    "primaryUse": "Angina prevention",
+    "keyRedFlag": "Headache; Nitrate-free interval needed",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 9,
+    "slug": "inderal-9",
+    "brandName": "Inderal",
+    "genericName": "propranolol",
+    "drugClass": "Beta-blocker (Non-selective)",
+    "primaryUse": "HTN / Migraine / Tremor",
+    "keyRedFlag": "Avoid in Asthma (Bronchoconstriction)",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 43,
+    "slug": "lanoxin-43",
+    "brandName": "Lanoxin",
+    "genericName": "digoxin",
+    "drugClass": "Cardiac Glycoside",
+    "primaryUse": "Heart Failure / AFib",
+    "keyRedFlag": "Toxicity (Halos around lights); Low K increases risk",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 12,
+    "slug": "lasix-12",
+    "brandName": "Lasix",
+    "genericName": "furosemide",
+    "drugClass": "Loop diuretic",
+    "primaryUse": "Edema / Heart Failure",
+    "keyRedFlag": "Hypokalemia; Ototoxicity (rapid IV)",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 15,
+    "slug": "lipitor-15",
+    "brandName": "Lipitor",
+    "genericName": "atorvastatin",
+    "drugClass": "Statin (HMG-CoA Reductase Inh.)",
+    "primaryUse": "Hyperlipidemia",
+    "keyRedFlag": "Myopathy (muscle pain); Pregnancy X",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 22,
+    "slug": "lopid-22",
+    "brandName": "Lopid",
+    "genericName": "gemfibrozil",
+    "drugClass": "Fibrate",
+    "primaryUse": "Hypertriglyceridemia",
+    "keyRedFlag": "Gallstones; Avoid w/ Statins",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 6,
+    "slug": "lopressor-6",
+    "brandName": "Lopressor",
+    "genericName": "metoprolol tartrate",
+    "drugClass": "Beta-blocker (Selective)",
+    "primaryUse": "Angina / HTN / MI",
+    "keyRedFlag": "Bradycardia",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 31,
+    "slug": "lotensin-31",
+    "brandName": "Lotensin",
+    "genericName": "benazepril",
+    "drugClass": "ACE Inhibitor",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "Dry cough",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 23,
+    "slug": "lovaza-23",
+    "brandName": "Lovaza",
+    "genericName": "omega-3-acid ethyl esters",
+    "drugClass": "Antilipemic",
+    "primaryUse": "High Triglycerides",
+    "keyRedFlag": "Fishy burps; Bleeding risk",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 29,
+    "slug": "lovenox-29",
+    "brandName": "Lovenox",
+    "genericName": "enoxaparin",
+    "drugClass": "LMWH (Anticoagulant)",
+    "primaryUse": "DVT prophylaxis",
+    "keyRedFlag": "Bleeding; SubQ injection only",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 14,
+    "slug": "maxzide-dyazide-14",
+    "brandName": "Maxzide / Dyazide",
+    "genericName": "triamterene/HCTZ",
+    "drugClass": "Diuretic Combo",
+    "primaryUse": "Hypertension / Edema",
+    "keyRedFlag": "Hyperkalemia (Check K levels)",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 19,
+    "slug": "mevacor-19",
+    "brandName": "Mevacor",
+    "genericName": "lovastatin",
+    "drugClass": "Statin (HMG-CoA Reductase Inh.)",
+    "primaryUse": "Hyperlipidemia",
+    "keyRedFlag": "Take with dinner",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 11,
+    "slug": "microzide-11",
+    "brandName": "Microzide",
+    "genericName": "hydrochlorothiazide (HCTZ)",
+    "drugClass": "Thiazide diuretic",
+    "primaryUse": "Hypertension / Edema",
+    "keyRedFlag": "Hypokalemia; Photosensitivity",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 41,
+    "slug": "nitrostat-41",
+    "brandName": "Nitrostat",
+    "genericName": "nitroglycerin",
+    "drugClass": "Nitrate",
+    "primaryUse": "Angina (Acute)",
+    "keyRedFlag": "Headache; Keep in original glass bottle",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 4,
+    "slug": "norvasc-4",
+    "brandName": "Norvasc",
+    "genericName": "amlodipine",
+    "drugClass": "DHP CCB",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "Peripheral edema (swollen ankles)",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 24,
+    "slug": "plavix-24",
+    "brandName": "Plavix",
+    "genericName": "clopidogrel",
+    "drugClass": "Antiplatelet",
+    "primaryUse": "ASCVD / Stent protection",
+    "keyRedFlag": "Bleeding risk; CYP2C19 interaction",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 18,
+    "slug": "pravachol-18",
+    "brandName": "Pravachol",
+    "genericName": "pravastatin",
+    "drugClass": "Statin (HMG-CoA Reductase Inh.)",
+    "primaryUse": "Hyperlipidemia",
+    "keyRedFlag": "Myopathy (muscle pain)",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 35,
+    "slug": "procardia-35",
+    "brandName": "Procardia",
+    "genericName": "nifedipine",
+    "drugClass": "DHP CCB",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "Gingival hyperplasia",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 7,
+    "slug": "tenormin-7",
+    "brandName": "Tenormin",
+    "genericName": "atenolol",
+    "drugClass": "Beta-blocker (Selective)",
+    "primaryUse": "Hypertension",
+    "keyRedFlag": "Bradycardia; Fatigue",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 5,
+    "slug": "toprol-xl-5",
+    "brandName": "Toprol-XL",
+    "genericName": "metoprolol succinate",
+    "drugClass": "Beta-blocker (Selective)",
+    "primaryUse": "Heart Failure / HTN",
+    "keyRedFlag": "Bradycardia; Do not crush XL",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 21,
+    "slug": "tricor-21",
+    "brandName": "Tricor",
+    "genericName": "fenofibrate",
+    "drugClass": "Fibrate",
+    "primaryUse": "Hypertriglyceridemia",
+    "keyRedFlag": "Gallstones; Liver enzymes",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 32,
+    "slug": "vasotec-32",
+    "brandName": "Vasotec",
+    "genericName": "enalapril",
+    "drugClass": "ACE Inhibitor",
+    "primaryUse": "Hypertension / HF",
+    "keyRedFlag": "Dry cough",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 28,
+    "slug": "xarelto-28",
+    "brandName": "Xarelto",
+    "genericName": "rivaroxaban",
+    "drugClass": "Anticoagulant (DOAC)",
+    "primaryUse": "AFib / VTE",
+    "keyRedFlag": "Bleeding risk; Take with food (doses >15mg)",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 1,
+    "slug": "zestril-prinivil-1",
+    "brandName": "Zestril / Prinivil",
+    "genericName": "lisinopril",
+    "drugClass": "ACE Inhibitor",
+    "primaryUse": "Hypertension / HF",
+    "keyRedFlag": "Dry cough; Hyperkalemia",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 20,
+    "slug": "zetia-20",
+    "brandName": "Zetia",
+    "genericName": "ezetimibe",
+    "drugClass": "Cholesterol absorption inh.",
+    "primaryUse": "Hyperlipidemia",
+    "keyRedFlag": "Diarrhea; Joint pain",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 17,
+    "slug": "zocor-17",
+    "brandName": "Zocor",
+    "genericName": "simvastatin",
+    "drugClass": "Statin (HMG-CoA Reductase Inh.)",
+    "primaryUse": "Hyperlipidemia",
+    "keyRedFlag": "Myopathy; Take in evening",
+    "category": "Cardiovascular"
+  },
+  {
+    "id": 96,
+    "slug": "abilify-96",
+    "brandName": "Abilify",
+    "genericName": "aripiprazole",
+    "drugClass": "Atypical Antipsychotic",
+    "primaryUse": "Schizophrenia / Depression",
+    "keyRedFlag": "Akathisia (restlessness)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 113,
+    "slug": "adderall-113",
+    "brandName": "Adderall",
+    "genericName": "amphetamine/dextroamp.",
+    "drugClass": "Stimulant (C-II)",
+    "primaryUse": "ADHD",
+    "keyRedFlag": "Insomnia; Addiction; < Appetite",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 91,
+    "slug": "ambien-91",
+    "brandName": "Ambien",
+    "genericName": "zolpidem",
+    "drugClass": "Hypnotic (C-IV)",
+    "primaryUse": "Insomnia",
+    "keyRedFlag": "Complex sleep behaviors (sleep walking)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 108,
+    "slug": "aricept-108",
+    "brandName": "Aricept",
+    "genericName": "donepezil",
+    "drugClass": "AChE inhibitor",
+    "primaryUse": "Alzheimer’s",
+    "keyRedFlag": "Bradycardia; Diarrhea; Insomnia",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 87,
+    "slug": "ativan-87",
+    "brandName": "Ativan",
+    "genericName": "lorazepam",
+    "drugClass": "Benzodiazepine (C-IV)",
+    "primaryUse": "Anxiety / Seizures",
+    "keyRedFlag": "Sedation; Alcohol interaction",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 75,
+    "slug": "celexa-75",
+    "brandName": "Celexa",
+    "genericName": "citalopram",
+    "drugClass": "SSRI",
+    "primaryUse": "Depression",
+    "keyRedFlag": "QT prolongation (>40mg dose limit)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 117,
+    "slug": "chantix-117",
+    "brandName": "Chantix",
+    "genericName": "varenicline",
+    "drugClass": "Partial Nicotine Agonist",
+    "primaryUse": "Smoking Cessation",
+    "keyRedFlag": "Vivid dreams; Neuropsych events",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 98,
+    "slug": "clozaril-98",
+    "brandName": "Clozaril",
+    "genericName": "clozapine",
+    "drugClass": "Atypical Antipsychotic",
+    "primaryUse": "Schizophrenia (Resistant)",
+    "keyRedFlag": "Agranulocytosis (REMS required)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 78,
+    "slug": "cymbalta-78",
+    "brandName": "Cymbalta",
+    "genericName": "duloxetine",
+    "drugClass": "SNRI",
+    "primaryUse": "Depression / Neuropathic Pain",
+    "keyRedFlag": "Increased BP; Hepatotoxicity",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 101,
+    "slug": "depakote-101",
+    "brandName": "Depakote",
+    "genericName": "divalproex",
+    "drugClass": "Anticonvulsant",
+    "primaryUse": "Seizures / Bipolar",
+    "keyRedFlag": "Hepatotoxicity; Teratogenic",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 82,
+    "slug": "desyrel-82",
+    "brandName": "Desyrel",
+    "genericName": "trazodone",
+    "drugClass": "Serotonin modulator",
+    "primaryUse": "Insomnia / Depression",
+    "keyRedFlag": "Priapism (Medical Emergency)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 102,
+    "slug": "dilantin-102",
+    "brandName": "Dilantin",
+    "genericName": "phenytoin",
+    "drugClass": "Anticonvulsant",
+    "primaryUse": "Seizures",
+    "keyRedFlag": "Gingival hyperplasia; Nystagmus",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 79,
+    "slug": "effexor-xr-79",
+    "brandName": "Effexor XR",
+    "genericName": "venlafaxine",
+    "drugClass": "SNRI",
+    "primaryUse": "Depression / Anxiety",
+    "keyRedFlag": "Increased BP; \"Brain zaps\" on miss",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 84,
+    "slug": "elavil-84",
+    "brandName": "Elavil",
+    "genericName": "amitriptyline",
+    "drugClass": "TCA",
+    "primaryUse": "Neuropathic pain / Migraine",
+    "keyRedFlag": "Anticholinergic (Dry mouth/confusion)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 105,
+    "slug": "keppra-105",
+    "brandName": "Keppra",
+    "genericName": "levetiracetam",
+    "drugClass": "Anticonvulsant",
+    "primaryUse": "Seizures",
+    "keyRedFlag": "Irritability ('Keppra rage')",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 88,
+    "slug": "klonopin-88",
+    "brandName": "Klonopin",
+    "genericName": "clonazepam",
+    "drugClass": "Benzodiazepine (C-IV)",
+    "primaryUse": "Anxiety / Seizures",
+    "keyRedFlag": "Sedation",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 100,
+    "slug": "lamictal-100",
+    "brandName": "Lamictal",
+    "genericName": "lamotrigine",
+    "drugClass": "Mood Stabilizer",
+    "primaryUse": "Bipolar / Seizures",
+    "keyRedFlag": "Stevens-Johnson Syndrome (Rash)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 97,
+    "slug": "latuda-97",
+    "brandName": "Latuda",
+    "genericName": "lurasidone",
+    "drugClass": "Atypical Antipsychotic",
+    "primaryUse": "Bipolar depression",
+    "keyRedFlag": "Take with food (min 350 cal)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 74,
+    "slug": "lexapro-74",
+    "brandName": "Lexapro",
+    "genericName": "escitalopram",
+    "drugClass": "SSRI",
+    "primaryUse": "Depression / Anxiety",
+    "keyRedFlag": "QT prolongation",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 99,
+    "slug": "lithobid-99",
+    "brandName": "Lithobid",
+    "genericName": "lithium",
+    "drugClass": "Mood Stabilizer",
+    "primaryUse": "Bipolar Disorder",
+    "keyRedFlag": "Toxicity (Tremor/Polydipsia); Salt intake",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 92,
+    "slug": "lunesta-92",
+    "brandName": "Lunesta",
+    "genericName": "eszopiclone",
+    "drugClass": "Hypnotic (C-IV)",
+    "primaryUse": "Insomnia",
+    "keyRedFlag": "Metallic taste",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 107,
+    "slug": "lyrica-107",
+    "brandName": "Lyrica",
+    "genericName": "pregabalin",
+    "drugClass": "Anticonvulsant (C-V)",
+    "primaryUse": "Neuropathic pain",
+    "keyRedFlag": "Edema; Euphoria",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 111,
+    "slug": "mirapex-111",
+    "brandName": "Mirapex",
+    "genericName": "pramipexole",
+    "drugClass": "Dopamine Agonist",
+    "primaryUse": "Parkinson's / RLS",
+    "keyRedFlag": "Orthostasis; Hallucinations",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 109,
+    "slug": "namenda-109",
+    "brandName": "Namenda",
+    "genericName": "memantine",
+    "drugClass": "NMDA antagonist",
+    "primaryUse": "Alzheimer’s",
+    "keyRedFlag": "Dizziness",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 106,
+    "slug": "neurontin-106",
+    "brandName": "Neurontin",
+    "genericName": "gabapentin",
+    "drugClass": "Anticonvulsant",
+    "primaryUse": "Neuropathic pain",
+    "keyRedFlag": "Peripheral edema; Sedation",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 85,
+    "slug": "pamelor-85",
+    "brandName": "Pamelor",
+    "genericName": "nortriptyline",
+    "drugClass": "TCA",
+    "primaryUse": "Neuropathic pain",
+    "keyRedFlag": "Anticholinergic effects",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 77,
+    "slug": "paxil-77",
+    "brandName": "Paxil",
+    "genericName": "paroxetine",
+    "drugClass": "SSRI",
+    "primaryUse": "Depression / Anxiety",
+    "keyRedFlag": "Weight gain; Withdrawal symptoms",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 80,
+    "slug": "pristiq-80",
+    "brandName": "Pristiq",
+    "genericName": "desvenlafaxine",
+    "drugClass": "SNRI",
+    "primaryUse": "Depression",
+    "keyRedFlag": "Ghost tablet in stool",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 76,
+    "slug": "prozac-76",
+    "brandName": "Prozac",
+    "genericName": "fluoxetine",
+    "drugClass": "SSRI",
+    "primaryUse": "Depression / Bulimia",
+    "keyRedFlag": "Insomnia (Activating)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 83,
+    "slug": "remeron-83",
+    "brandName": "Remeron",
+    "genericName": "mirtazapine",
+    "drugClass": "Tetracyclic antidepressant",
+    "primaryUse": "Insomnia / Depression",
+    "keyRedFlag": "Weight gain; Sedation",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 110,
+    "slug": "requip-110",
+    "brandName": "Requip",
+    "genericName": "ropinirole",
+    "drugClass": "Dopamine Agonist",
+    "primaryUse": "Parkinson's / RLS",
+    "keyRedFlag": "Impulse control disorders (Gambling)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 90,
+    "slug": "restoril-90",
+    "brandName": "Restoril",
+    "genericName": "temazepam",
+    "drugClass": "Benzodiazepine (C-IV)",
+    "primaryUse": "Insomnia",
+    "keyRedFlag": "Complex sleep behaviors",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 94,
+    "slug": "risperdal-94",
+    "brandName": "Risperdal",
+    "genericName": "risperidone",
+    "drugClass": "Atypical Antipsychotic",
+    "primaryUse": "Schizophrenia / Bipolar",
+    "keyRedFlag": "Hyperprolactinemia; EPS",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 115,
+    "slug": "ritalin-concerta-115",
+    "brandName": "Ritalin / Concerta",
+    "genericName": "methylphenidate",
+    "drugClass": "Stimulant (C-II)",
+    "primaryUse": "ADHD",
+    "keyRedFlag": "Insomnia; Growth suppression",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 93,
+    "slug": "seroquel-93",
+    "brandName": "Seroquel",
+    "genericName": "quetiapine",
+    "drugClass": "Atypical Antipsychotic",
+    "primaryUse": "Schizophrenia / Bipolar",
+    "keyRedFlag": "Sedation; Metabolic (Weight gain)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 112,
+    "slug": "sinemet-112",
+    "brandName": "Sinemet",
+    "genericName": "carbidopa/levodopa",
+    "drugClass": "Dopamine precursor",
+    "primaryUse": "Parkinson's",
+    "keyRedFlag": "Dark urine/sweat; Dyskinesia",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 116,
+    "slug": "strattera-116",
+    "brandName": "Strattera",
+    "genericName": "atomoxetine",
+    "drugClass": "NRI (Non-stimulant)",
+    "primaryUse": "ADHD",
+    "keyRedFlag": "Suicidal ideation; Liver injury",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 103,
+    "slug": "tegretol-103",
+    "brandName": "Tegretol",
+    "genericName": "carbamazepine",
+    "drugClass": "Anticonvulsant",
+    "primaryUse": "Seizures / Neuropathic pain",
+    "keyRedFlag": "SJS (Asian ancestry test HLAB*1502)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 104,
+    "slug": "topamax-104",
+    "brandName": "Topamax",
+    "genericName": "topiramate",
+    "drugClass": "Anticonvulsant",
+    "primaryUse": "Migraine / Seizures",
+    "keyRedFlag": "Cognitive slowing ('Dopamax'); Weight loss",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 89,
+    "slug": "valium-89",
+    "brandName": "Valium",
+    "genericName": "diazepam",
+    "drugClass": "Benzodiazepine (C-IV)",
+    "primaryUse": "Anxiety / Muscle Spasm",
+    "keyRedFlag": "Long half-life; Sedation",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 114,
+    "slug": "vyvanse-114",
+    "brandName": "Vyvanse",
+    "genericName": "lisdexamfetamine",
+    "drugClass": "Stimulant (C-II)",
+    "primaryUse": "ADHD / Binge Eating",
+    "keyRedFlag": "Insomnia; Prodrug (less abuse risk)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 81,
+    "slug": "wellbutrin-xl-81",
+    "brandName": "Wellbutrin XL",
+    "genericName": "bupropion",
+    "drugClass": "NDRI",
+    "primaryUse": "Depression / Smoking",
+    "keyRedFlag": "Seizure risk (avoid in bulimia)",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 86,
+    "slug": "xanax-86",
+    "brandName": "Xanax",
+    "genericName": "alprazolam",
+    "drugClass": "Benzodiazepine (C-IV)",
+    "primaryUse": "Anxiety",
+    "keyRedFlag": "Sedation; High abuse potential",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 73,
+    "slug": "zoloft-73",
+    "brandName": "Zoloft",
+    "genericName": "sertraline",
+    "drugClass": "SSRI",
+    "primaryUse": "Depression / Anxiety",
+    "keyRedFlag": "Sexual dysfunction; GI upset",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 95,
+    "slug": "zyprexa-95",
+    "brandName": "Zyprexa",
+    "genericName": "olanzapine",
+    "drugClass": "Atypical Antipsychotic",
+    "primaryUse": "Schizophrenia / Bipolar",
+    "keyRedFlag": "Significant weight gain; Diabetes risk",
+    "category": "Cns & Psychiatric"
+  },
+  {
+    "id": 146,
+    "slug": "kenalog-146",
+    "brandName": "Kenalog",
+    "genericName": "triamcinolone",
+    "drugClass": "Corticosteroid (Topical)",
+    "primaryUse": "Eczema / Rash",
+    "keyRedFlag": "Skin thinning",
+    "category": "Dermatology"
+  },
+  {
+    "id": 48,
+    "slug": "actos-48",
+    "brandName": "Actos",
+    "genericName": "pioglitazone",
+    "drugClass": "Thiazolidinedione",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "Edema; Heart Failure risk (Black Box)",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 46,
+    "slug": "amaryl-46",
+    "brandName": "Amaryl",
+    "genericName": "glimepiride",
+    "drugClass": "Sulfonylurea",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "Hypoglycemia; Sun sensitivity",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 72,
+    "slug": "androgel-72",
+    "brandName": "AndroGel",
+    "genericName": "testosterone",
+    "drugClass": "Androgen (C-III)",
+    "primaryUse": "Hypogonadism (Low T)",
+    "keyRedFlag": "Worsens BPH; Secondary exposure risk",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 63,
+    "slug": "armour-thyroid-63",
+    "brandName": "Armour Thyroid",
+    "genericName": "thyroid (desiccated)",
+    "drugClass": "Thyroid hormone",
+    "primaryUse": "Hypothyroidism",
+    "keyRedFlag": "Variable potency",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 66,
+    "slug": "colcrys-66",
+    "brandName": "Colcrys",
+    "genericName": "colchicine",
+    "drugClass": "Antigout agent",
+    "primaryUse": "Acute Gout",
+    "keyRedFlag": "GI toxicity (Diarrhea)",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 71,
+    "slug": "depo-provera-71",
+    "brandName": "Depo-Provera",
+    "genericName": "medroxyprogesterone",
+    "drugClass": "Progestin",
+    "primaryUse": "Birth Control",
+    "keyRedFlag": "Bone density loss (limit use <2 yrs)",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 68,
+    "slug": "estrace-68",
+    "brandName": "Estrace",
+    "genericName": "estradiol",
+    "drugClass": "Hormone",
+    "primaryUse": "Menopause symptoms",
+    "keyRedFlag": "Blood clots (DVT/PE)",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 53,
+    "slug": "farxiga-53",
+    "brandName": "Farxiga",
+    "genericName": "dapagliflozin",
+    "drugClass": "SGLT2 inhibitor",
+    "primaryUse": "Type 2 Diabetes / HF",
+    "keyRedFlag": "UTI; Genital yeast infections",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 45,
+    "slug": "glucophage-45",
+    "brandName": "Glucophage",
+    "genericName": "metformin",
+    "drugClass": "Biguanide",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "GI upset (Take w/ food); Lactic Acidosis",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 47,
+    "slug": "glucotrol-47",
+    "brandName": "Glucotrol",
+    "genericName": "glipizide",
+    "drugClass": "Sulfonylurea",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "Hypoglycemia; Weight gain",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 59,
+    "slug": "humalog-59",
+    "brandName": "Humalog",
+    "genericName": "insulin lispro",
+    "drugClass": "Rapid-acting Insulin",
+    "primaryUse": "Diabetes",
+    "keyRedFlag": "Hypoglycemia; Inject 15m before meal",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 61,
+    "slug": "humulin-r-novolin-r-61",
+    "brandName": "Humulin R / Novolin R",
+    "genericName": "insulin regular",
+    "drugClass": "Short-acting Insulin",
+    "primaryUse": "Diabetes",
+    "keyRedFlag": "Hypoglycemia; Only insulin for IV use",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 52,
+    "slug": "invokana-52",
+    "brandName": "Invokana",
+    "genericName": "canagliflozin",
+    "drugClass": "SGLT2 inhibitor",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "Amputation risk (rare); Yeast infection",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 49,
+    "slug": "januvia-49",
+    "brandName": "Januvia",
+    "genericName": "sitagliptin",
+    "drugClass": "DPP-4 Inhibitor",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "Joint pain; Pancreatitis risk",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 51,
+    "slug": "jardiance-51",
+    "brandName": "Jardiance",
+    "genericName": "empagliflozin",
+    "drugClass": "SGLT2 inhibitor",
+    "primaryUse": "Type 2 Diabetes / HF",
+    "keyRedFlag": "UTI; Genital yeast infections",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 57,
+    "slug": "lantus-basaglar-57",
+    "brandName": "Lantus / Basaglar",
+    "genericName": "insulin glargine",
+    "drugClass": "Basal Insulin (Long-acting)",
+    "primaryUse": "Diabetes",
+    "keyRedFlag": "Hypoglycemia; Do not mix in syringe",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 58,
+    "slug": "levemir-58",
+    "brandName": "Levemir",
+    "genericName": "insulin detemir",
+    "drugClass": "Basal Insulin (Long-acting)",
+    "primaryUse": "Diabetes",
+    "keyRedFlag": "Hypoglycemia",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 60,
+    "slug": "novolog-60",
+    "brandName": "Novolog",
+    "genericName": "insulin aspart",
+    "drugClass": "Rapid-acting Insulin",
+    "primaryUse": "Diabetes",
+    "keyRedFlag": "Hypoglycemia; Inject 15m before meal",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 70,
+    "slug": "nuvaring-70",
+    "brandName": "NuvaRing",
+    "genericName": "etonogestrel/ethinyl est.",
+    "drugClass": "Vaginal Ring",
+    "primaryUse": "Prevent pregnancy",
+    "keyRedFlag": "Insert for 3wks, remove for 1wk",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 54,
+    "slug": "ozempic-wegovy-54",
+    "brandName": "Ozempic / Wegovy",
+    "genericName": "semaglutide",
+    "drugClass": "GLP-1 RA",
+    "primaryUse": "Diabetes / Weight loss",
+    "keyRedFlag": "Thyroid C-cell tumors (Black Box)",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 67,
+    "slug": "premarin-67",
+    "brandName": "Premarin",
+    "genericName": "conjugated estrogens",
+    "drugClass": "Hormone",
+    "primaryUse": "Menopause symptoms",
+    "keyRedFlag": "Blood clots (DVT/PE); Endometrial Ca",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 62,
+    "slug": "synthroid-62",
+    "brandName": "Synthroid",
+    "genericName": "levothyroxine",
+    "drugClass": "Thyroid hormone",
+    "primaryUse": "Hypothyroidism",
+    "keyRedFlag": "Take on empty stomach (water only)",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 50,
+    "slug": "tradjenta-50",
+    "brandName": "Tradjenta",
+    "genericName": "linagliptin",
+    "drugClass": "DPP-4 Inhibitor",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "Nasopharyngitis",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 55,
+    "slug": "trulicity-55",
+    "brandName": "Trulicity",
+    "genericName": "dulaglutide",
+    "drugClass": "GLP-1 RA",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "Nausea; Thyroid C-cell tumors",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 65,
+    "slug": "uloric-65",
+    "brandName": "Uloric",
+    "genericName": "febuxostat",
+    "drugClass": "Xanthine oxidase inh.",
+    "primaryUse": "Gout Prevention",
+    "keyRedFlag": "CV Death risk (Black Box)",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 56,
+    "slug": "victoza-56",
+    "brandName": "Victoza",
+    "genericName": "liraglutide",
+    "drugClass": "GLP-1 RA",
+    "primaryUse": "Type 2 Diabetes",
+    "keyRedFlag": "Nausea; Injection site reactions",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 69,
+    "slug": "yaz-sprintec-69",
+    "brandName": "Yaz / Sprintec",
+    "genericName": "ethinyl estradiol/progestin",
+    "drugClass": "Oral Contraceptive",
+    "primaryUse": "Prevent pregnancy / Acne",
+    "keyRedFlag": "Clotting risk; Smoking >35y contraind.",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 64,
+    "slug": "zyloprim-64",
+    "brandName": "Zyloprim",
+    "genericName": "allopurinol",
+    "drugClass": "Xanthine oxidase inh.",
+    "primaryUse": "Gout Prevention",
+    "keyRedFlag": "Rash (SJS/TEN); Drink water",
+    "category": "Endocrine & Metabolic"
+  },
+  {
+    "id": 196,
+    "slug": "bentyl-196",
+    "brandName": "Bentyl",
+    "genericName": "dicyclomine",
+    "drugClass": "Anticholinergic",
+    "primaryUse": "IBS (Cramping)",
+    "keyRedFlag": "Dry mouth; Dizziness",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": 191,
+    "slug": "nexium-191",
+    "brandName": "Nexium",
+    "genericName": "esomeprazole",
+    "drugClass": "PPI",
+    "primaryUse": "GERD / Acid Reflux",
+    "keyRedFlag": "Low Mg; C. diff risk",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": 193,
+    "slug": "pepcid-193",
+    "brandName": "Pepcid",
+    "genericName": "famotidine",
+    "drugClass": "H2 Blocker",
+    "primaryUse": "GERD / Heartburn",
+    "keyRedFlag": "Confusion (Elderly/Renal)",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": 192,
+    "slug": "prevacid-192",
+    "brandName": "Prevacid",
+    "genericName": "lansoprazole",
+    "drugClass": "PPI",
+    "primaryUse": "GERD / Acid Reflux",
+    "keyRedFlag": "Low Mg; C. diff risk",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": 189,
+    "slug": "prilosec-189",
+    "brandName": "Prilosec",
+    "genericName": "omeprazole",
+    "drugClass": "PPI",
+    "primaryUse": "GERD / Acid Reflux",
+    "keyRedFlag": "Low Mg; C. diff; Fracture risk",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": 190,
+    "slug": "protonix-190",
+    "brandName": "Protonix",
+    "genericName": "pantoprazole",
+    "drugClass": "PPI",
+    "primaryUse": "GERD / Acid Reflux",
+    "keyRedFlag": "Low Mg; C. diff risk",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": 195,
+    "slug": "reglan-195",
+    "brandName": "Reglan",
+    "genericName": "metoclopramide",
+    "drugClass": "Prokinetic",
+    "primaryUse": "Gastroparesis / Nausea",
+    "keyRedFlag": "Tardive Dyskinesia (EPS)",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": 194,
+    "slug": "zofran-194",
+    "brandName": "Zofran",
+    "genericName": "ondansetron",
+    "drugClass": "5-HT3 Antagonist",
+    "primaryUse": "Nausea / Vomiting",
+    "keyRedFlag": "QT Prolongation; Constipation",
+    "category": "Gastrointestinal"
+  },
+  {
+    "id": 198,
+    "slug": "cialis-198",
+    "brandName": "Cialis",
+    "genericName": "tadalafil",
+    "drugClass": "PDE-5 Inhibitor",
+    "primaryUse": "ED / BPH",
+    "keyRedFlag": "Contraindicated w/ Nitrates",
+    "category": "Genitourinary"
+  },
+  {
+    "id": 200,
+    "slug": "ditropan-200",
+    "brandName": "Ditropan",
+    "genericName": "oxybutynin",
+    "drugClass": "Antimuscarinic",
+    "primaryUse": "Overactive Bladder",
+    "keyRedFlag": "Dry mouth; Constipation",
+    "category": "Genitourinary"
+  },
+  {
+    "id": 199,
+    "slug": "flomax-199",
+    "brandName": "Flomax",
+    "genericName": "tamsulosin",
+    "drugClass": "Alpha-1 blocker",
+    "primaryUse": "BPH (Prostate)",
+    "keyRedFlag": "Orthostasis; Floppy Iris Syndrome",
+    "category": "Genitourinary"
+  },
+  {
+    "id": 197,
+    "slug": "viagra-197",
+    "brandName": "Viagra",
+    "genericName": "sildenafil",
+    "drugClass": "PDE-5 Inhibitor",
+    "primaryUse": "Erectile Dysfunction",
+    "keyRedFlag": "Contraindicated w/ Nitrates",
+    "category": "Genitourinary"
+  },
+  {
+    "id": 133,
+    "slug": "celebrex-133",
+    "brandName": "Celebrex",
+    "genericName": "celecoxib",
+    "drugClass": "NSAID (COX-2 Selective)",
+    "primaryUse": "Pain / Arthritis",
+    "keyRedFlag": "Sulfa Allergy; Lower GI risk",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 144,
+    "slug": "deltasone-144",
+    "brandName": "Deltasone",
+    "genericName": "prednisone",
+    "drugClass": "Corticosteroid",
+    "primaryUse": "Inflammation",
+    "keyRedFlag": "Hyperglycemia; Insomnia; Moon face",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 125,
+    "slug": "dilaudid-125",
+    "brandName": "Dilaudid",
+    "genericName": "hydromorphone",
+    "drugClass": "Opioid (C-II)",
+    "primaryUse": "Severe Pain",
+    "keyRedFlag": "Very potent; Resp. Depression",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 124,
+    "slug": "duragesic-124",
+    "brandName": "Duragesic",
+    "genericName": "fentanyl",
+    "drugClass": "Opioid (C-II)",
+    "primaryUse": "Chronic Pain (Tolerance req)",
+    "keyRedFlag": "Fatal Resp. Dep.; Flush patches",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 138,
+    "slug": "fioricet-138",
+    "brandName": "Fioricet",
+    "genericName": "butalbital/APAP/caffeine",
+    "drugClass": "Barbiturate Combo",
+    "primaryUse": "Tension Headache",
+    "keyRedFlag": "Sedation; Rebound headache",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 139,
+    "slug": "flexeril-139",
+    "brandName": "Flexeril",
+    "genericName": "cyclobenzaprine",
+    "drugClass": "Muscle Relaxant",
+    "primaryUse": "Muscle Spasm",
+    "keyRedFlag": "Dry mouth; Sedation",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 137,
+    "slug": "imitrex-137",
+    "brandName": "Imitrex",
+    "genericName": "sumatriptan",
+    "drugClass": "Triptan",
+    "primaryUse": "Migraine (Acute)",
+    "keyRedFlag": "Chest tightness; Contraind. in CAD",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 136,
+    "slug": "lidoderm-136",
+    "brandName": "Lidoderm",
+    "genericName": "lidocaine patch",
+    "drugClass": "Local Anesthetic",
+    "primaryUse": "Post-shingles pain",
+    "keyRedFlag": "12 hours on / 12 hours off",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 141,
+    "slug": "lioresal-141",
+    "brandName": "Lioresal",
+    "genericName": "baclofen",
+    "drugClass": "Muscle Relaxant",
+    "primaryUse": "Spasticity",
+    "keyRedFlag": "Withdrawal (Hallucinations)",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 145,
+    "slug": "medrol-145",
+    "brandName": "Medrol",
+    "genericName": "methylprednisolone",
+    "drugClass": "Corticosteroid",
+    "primaryUse": "Inflammation",
+    "keyRedFlag": "Hyperglycemia; Taper required",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 126,
+    "slug": "methadose-126",
+    "brandName": "Methadose",
+    "genericName": "methadone",
+    "drugClass": "Opioid (C-II)",
+    "primaryUse": "Pain / Detox",
+    "keyRedFlag": "QT Prolongation; Variable half-life",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 131,
+    "slug": "mobic-131",
+    "brandName": "Mobic",
+    "genericName": "meloxicam",
+    "drugClass": "NSAID",
+    "primaryUse": "Pain / Arthritis",
+    "keyRedFlag": "GI Bleed; Kidney stress",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 129,
+    "slug": "motrin-advil-129",
+    "brandName": "Motrin / Advil",
+    "genericName": "ibuprofen",
+    "drugClass": "NSAID",
+    "primaryUse": "Pain / Fever",
+    "keyRedFlag": "GI Bleed; Kidney stress",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 122,
+    "slug": "ms-contin-122",
+    "brandName": "MS Contin",
+    "genericName": "morphine ER",
+    "drugClass": "Opioid (C-II)",
+    "primaryUse": "Chronic Severe Pain",
+    "keyRedFlag": "Resp. Depression; Miosis",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 130,
+    "slug": "naprosyn-aleve-130",
+    "brandName": "Naprosyn / Aleve",
+    "genericName": "naproxen",
+    "drugClass": "NSAID",
+    "primaryUse": "Pain / Inflammation",
+    "keyRedFlag": "GI Bleed; Kidney stress",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 128,
+    "slug": "narcan-128",
+    "brandName": "Narcan",
+    "genericName": "naloxone",
+    "drugClass": "Opioid antagonist",
+    "primaryUse": "Opioid Overdose",
+    "keyRedFlag": "Acute Withdrawal (Agitation/Pain)",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 118,
+    "slug": "norco-vicodin-118",
+    "brandName": "Norco / Vicodin",
+    "genericName": "hydrocodone/APAP",
+    "drugClass": "Opioid Combo (C-II)",
+    "primaryUse": "Moderate-Severe Pain",
+    "keyRedFlag": "Constipation; Resp. Depression",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 123,
+    "slug": "oxycontin-123",
+    "brandName": "OxyContin",
+    "genericName": "oxycodone ER",
+    "drugClass": "Opioid (C-II)",
+    "primaryUse": "Chronic Severe Pain",
+    "keyRedFlag": "Do not crush (Abuse deterrent)",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 119,
+    "slug": "percocet-endocet-119",
+    "brandName": "Percocet / Endocet",
+    "genericName": "oxycodone/APAP",
+    "drugClass": "Opioid Combo (C-II)",
+    "primaryUse": "Moderate-Severe Pain",
+    "keyRedFlag": "Constipation; Resp. Depression",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 147,
+    "slug": "plaquenil-147",
+    "brandName": "Plaquenil",
+    "genericName": "hydroxychloroquine",
+    "drugClass": "DMARD",
+    "primaryUse": "Rheumatoid Arthritis / Lupus",
+    "keyRedFlag": "Retinal toxicity (Eye exams needed)",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 142,
+    "slug": "robaxin-142",
+    "brandName": "Robaxin",
+    "genericName": "methocarbamol",
+    "drugClass": "Muscle Relaxant",
+    "primaryUse": "Muscle Spasm",
+    "keyRedFlag": "Drowsiness; Black/Green urine",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 143,
+    "slug": "soma-143",
+    "brandName": "Soma",
+    "genericName": "carisoprodol",
+    "drugClass": "Muscle Relaxant (C-IV)",
+    "primaryUse": "Muscle Spasm",
+    "keyRedFlag": "High abuse potential",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 127,
+    "slug": "suboxone-127",
+    "brandName": "Suboxone",
+    "genericName": "buprenorphine/naloxone",
+    "drugClass": "Opioid agonist/antag (C-III)",
+    "primaryUse": "Opioid Dependence",
+    "keyRedFlag": "Precipitated withdrawal if misused",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 134,
+    "slug": "toradol-134",
+    "brandName": "Toradol",
+    "genericName": "ketorolac",
+    "drugClass": "NSAID",
+    "primaryUse": "Severe Pain",
+    "keyRedFlag": "Max 5 days (Renal/Bleeding risk)",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 148,
+    "slug": "trexall-148",
+    "brandName": "Trexall",
+    "genericName": "methotrexate",
+    "drugClass": "DMARD / Antimetabolite",
+    "primaryUse": "RA / Psoriasis / Cancer",
+    "keyRedFlag": "Pregnancy Cat X; Folic acid needed",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 135,
+    "slug": "tylenol-135",
+    "brandName": "Tylenol",
+    "genericName": "acetaminophen",
+    "drugClass": "Analgesic / Antipyretic",
+    "primaryUse": "Pain / Fever",
+    "keyRedFlag": "Hepatotoxicity (>4g/day)",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 120,
+    "slug": "tylenol-3-120",
+    "brandName": "Tylenol #3",
+    "genericName": "acetaminophen/codeine",
+    "drugClass": "Opioid Combo (C-III)",
+    "primaryUse": "Mild-Moderate Pain",
+    "keyRedFlag": "Constipation; CYP2D6 metabolizer risk",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 121,
+    "slug": "ultram-121",
+    "brandName": "Ultram",
+    "genericName": "tramadol",
+    "drugClass": "Opioid (C-IV)",
+    "primaryUse": "Moderate Pain",
+    "keyRedFlag": "Seizure risk; Serotonin Syndrome",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 132,
+    "slug": "voltaren-132",
+    "brandName": "Voltaren",
+    "genericName": "diclofenac",
+    "drugClass": "NSAID",
+    "primaryUse": "Pain / Arthritis",
+    "keyRedFlag": "CV Risk (High); GI Bleed",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 140,
+    "slug": "zanaflex-140",
+    "brandName": "Zanaflex",
+    "genericName": "tizanidine",
+    "drugClass": "Muscle Relaxant",
+    "primaryUse": "Spasticity",
+    "keyRedFlag": "Hypotension; Dry mouth",
+    "category": "Pain & Inflammation"
+  },
+  {
+    "id": 150,
+    "slug": "advair-150",
+    "brandName": "Advair",
+    "genericName": "fluticasone/salmeterol",
+    "drugClass": "ICS / LABA",
+    "primaryUse": "Asthma / COPD",
+    "keyRedFlag": "Oral Thrush (Rinse mouth)",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 165,
+    "slug": "antivert-165",
+    "brandName": "Antivert",
+    "genericName": "meclizine",
+    "drugClass": "1st-gen Antihistamine",
+    "primaryUse": "Vertigo",
+    "keyRedFlag": "Drowsiness",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 163,
+    "slug": "atarax-vistaril-163",
+    "brandName": "Atarax / Vistaril",
+    "genericName": "hydroxyzine",
+    "drugClass": "1st-gen Antihistamine",
+    "primaryUse": "Anxiety / Itching",
+    "keyRedFlag": "Sedation",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 155,
+    "slug": "atrovent-155",
+    "brandName": "Atrovent",
+    "genericName": "ipratropium",
+    "drugClass": "SAMA",
+    "primaryUse": "COPD",
+    "keyRedFlag": "Dry mouth; Bitter taste",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 162,
+    "slug": "benadryl-162",
+    "brandName": "Benadryl",
+    "genericName": "diphenhydramine",
+    "drugClass": "1st-gen Antihistamine",
+    "primaryUse": "Allergy / Sleep",
+    "keyRedFlag": "Sedation; Anticholinergic (Dry)",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 152,
+    "slug": "breo-ellipta-152",
+    "brandName": "Breo Ellipta",
+    "genericName": "fluticasone/vilanterol",
+    "drugClass": "ICS / LABA",
+    "primaryUse": "Asthma / COPD",
+    "keyRedFlag": "Oral Thrush (Rinse mouth)",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 166,
+    "slug": "claritin-166",
+    "brandName": "Claritin",
+    "genericName": "loratadine",
+    "drugClass": "2nd-gen Antihistamine",
+    "primaryUse": "Allergy",
+    "keyRedFlag": "Non-drowsy",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 154,
+    "slug": "combivent-duoneb-154",
+    "brandName": "Combivent / DuoNeb",
+    "genericName": "ipratropium/albuterol",
+    "drugClass": "SAMA / SABA",
+    "primaryUse": "COPD",
+    "keyRedFlag": "Dry mouth; Tachycardia",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 161,
+    "slug": "epipen-161",
+    "brandName": "EpiPen",
+    "genericName": "epinephrine",
+    "drugClass": "Alpha/Beta Agonist",
+    "primaryUse": "Anaphylaxis",
+    "keyRedFlag": "Inject outer thigh; Seek ER after",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 159,
+    "slug": "flonase-159",
+    "brandName": "Flonase",
+    "genericName": "fluticasone (nasal)",
+    "drugClass": "Corticosteroid (Nasal)",
+    "primaryUse": "Allergic Rhinitis",
+    "keyRedFlag": "Epistaxis (Nose bleed)",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 157,
+    "slug": "flovent-arnuity-157",
+    "brandName": "Flovent / Arnuity",
+    "genericName": "fluticasone (inhaled)",
+    "drugClass": "Corticosteroid (Inhaled)",
+    "primaryUse": "Asthma",
+    "keyRedFlag": "Oral Thrush",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 160,
+    "slug": "nasonex-160",
+    "brandName": "Nasonex",
+    "genericName": "mometasone",
+    "drugClass": "Corticosteroid (Nasal)",
+    "primaryUse": "Allergic Rhinitis",
+    "keyRedFlag": "Epistaxis",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 164,
+    "slug": "phenergan-164",
+    "brandName": "Phenergan",
+    "genericName": "promethazine",
+    "drugClass": "1st-gen Antihistamine",
+    "primaryUse": "Nausea / Vomiting",
+    "keyRedFlag": "Gangrene (IV); Sedation",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 149,
+    "slug": "proair-ventolin-149",
+    "brandName": "ProAir / Ventolin",
+    "genericName": "albuterol",
+    "drugClass": "SABA",
+    "primaryUse": "Asthma Rescue",
+    "keyRedFlag": "Tachycardia; Jitters",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 156,
+    "slug": "pulmicort-156",
+    "brandName": "Pulmicort",
+    "genericName": "budesonide",
+    "drugClass": "Corticosteroid (Inhaled)",
+    "primaryUse": "Asthma",
+    "keyRedFlag": "Oral Thrush",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 158,
+    "slug": "singulair-158",
+    "brandName": "Singulair",
+    "genericName": "montelukast",
+    "drugClass": "Leukotriene antagonist",
+    "primaryUse": "Asthma / Allergy",
+    "keyRedFlag": "Neuropsychiatric events (Mood change)",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 153,
+    "slug": "spiriva-153",
+    "brandName": "Spiriva",
+    "genericName": "tiotropium",
+    "drugClass": "LAMA (Anticholinergic)",
+    "primaryUse": "COPD",
+    "keyRedFlag": "Dry mouth; Do not swallow capsule",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 151,
+    "slug": "symbicort-151",
+    "brandName": "Symbicort",
+    "genericName": "budesonide/formoterol",
+    "drugClass": "ICS / LABA",
+    "primaryUse": "Asthma / COPD",
+    "keyRedFlag": "Oral Thrush (Rinse mouth)",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 168,
+    "slug": "tessalon-perles-168",
+    "brandName": "Tessalon Perles",
+    "genericName": "benzonatate",
+    "drugClass": "Antitussive",
+    "primaryUse": "Cough",
+    "keyRedFlag": "Numbness if chewed (Do not chew!)",
+    "category": "Respiratory & Allergy"
+  },
+  {
+    "id": 167,
+    "slug": "zyrtec-167",
+    "brandName": "Zyrtec",
+    "genericName": "cetirizine",
+    "drugClass": "2nd-gen Antihistamine",
+    "primaryUse": "Allergy",
+    "keyRedFlag": "Drowsiness (in 10% of patients)",
+    "category": "Respiratory & Allergy"
+  }
+]
